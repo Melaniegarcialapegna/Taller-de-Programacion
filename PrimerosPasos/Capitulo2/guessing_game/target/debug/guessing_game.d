@@ -1,1 +1,0 @@
-/home/melaniegarcialapegna/Actual/Taller/RepoPersonal/PrimerosPasos/Capitulo2/guessing_game/target/debug/guessing_game: /home/melaniegarcialapegna/Actual/Taller/RepoPersonal/PrimerosPasos/Capitulo2/guessing_game/src/main.rs
