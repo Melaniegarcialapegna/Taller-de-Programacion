@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DIV_CERO"],"struct":["Calculadora"]};

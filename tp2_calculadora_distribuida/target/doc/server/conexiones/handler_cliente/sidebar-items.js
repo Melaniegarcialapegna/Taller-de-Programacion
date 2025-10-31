@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CERO_BYTES_LEIDOS"],"struct":["HandlerCliente"]};

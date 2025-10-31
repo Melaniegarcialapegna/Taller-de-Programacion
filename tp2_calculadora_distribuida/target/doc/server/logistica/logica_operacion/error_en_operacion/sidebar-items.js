@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["OPERADOR_INVALIDO","OPERANDO_INVALIDO"],"enum":["ErrorEnOperacion"]};

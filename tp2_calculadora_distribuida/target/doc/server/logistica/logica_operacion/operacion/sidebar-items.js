@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["OP_DIVISION","OP_MULTIPLICACION","OP_RESTA","OP_SUMA"],"enum":["Operacion"]};

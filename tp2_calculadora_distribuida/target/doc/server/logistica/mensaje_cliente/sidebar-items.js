@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MENSAJE_GET","MENSAJE_OP"],"enum":["MensajeCliente"]};

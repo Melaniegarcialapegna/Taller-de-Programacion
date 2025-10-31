@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["calculadora","error_en_calculadora"]};

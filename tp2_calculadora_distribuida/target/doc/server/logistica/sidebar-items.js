@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["logica_calculadora","logica_operacion","mensaje_cliente","respuesta"]};

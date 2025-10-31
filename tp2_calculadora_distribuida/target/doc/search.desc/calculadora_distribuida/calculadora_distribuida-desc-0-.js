@@ -1,0 +1,1 @@
+searchState.loadedDescShard("calculadora_distribuida", 0, "Este proyecto simula una CALCULADORA DISTRIBUIDA")

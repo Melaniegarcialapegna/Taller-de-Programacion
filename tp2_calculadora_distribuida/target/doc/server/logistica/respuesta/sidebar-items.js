@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MENSAJE_OK","MENSAJE_VALUE"],"enum":["Respuesta"]};
