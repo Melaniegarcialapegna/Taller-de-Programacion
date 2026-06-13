@@ -1,0 +1,24 @@
+[package]
+name = "room_rtc_2c_25"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.33.0"
+egui_extras = { version = "0.33.0", features = ["svg", "image"] }
+if-addrs = "0.14.0"
+openh264 = "0.9.0"
+rand = "0.8"
+sha2 = "0.10.9"
+rsa = "0.9.9"
+udp-dtls = "0.1.0"
+openssl-sys = "0.9"
+openssl = "0.10"
+cpal = "0.17.3"
+sctp-proto = "0.7.0"
+bytes = "1.11.1"
+
+[dependencies.nokhwa]
+version = "0.10"
+# Use the native input backends, enable WGPU integration
+features = ["input-native", "output-wgpu"]
